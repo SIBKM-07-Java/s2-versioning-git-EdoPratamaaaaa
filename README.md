@@ -7,11 +7,11 @@ pasti tetap semangat...
 
 ### belajar three way merge - main
 1. Inisialisasi project dan remote:
-   - Langkah 1: Buat Repository Baru di Local
+Langkah 1: Buat Repository Baru di Local
      
 ![image](https://github.com/user-attachments/assets/d333f9d2-398e-445c-984e-585cb90ba937)
 
-   - Tambahkan Remote Repository
+Tambahkan Remote Repository
 Tambahkan remote repository dari GitHub:
 
 ![image](https://github.com/user-attachments/assets/c1fda0da-081d-422a-899d-0e0f02886a87)
@@ -60,4 +60,6 @@ branch Parent: ParentEdo & branch Child: ChildEdo
 6. Selesaikan konflik dan merge:
 
 ![image](https://github.com/user-attachments/assets/82f29d21-844d-4c79-afab-29de5db0b673)
+
+![image](https://github.com/user-attachments/assets/21694707-3298-4c19-b8ee-43e713a14bf0)
 
